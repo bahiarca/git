@@ -2,7 +2,7 @@
 ////                                                                 ////
 ////    Autor: Ricardo Carlos Arca                                   ////
 ////    Version: 5.0                                                 ////
-////    Fecha: 14/05/2015                                            ////
+////    Fecha: 14/10/2015                                            ////
 ////    Descripción: PLACA DE CONTROL                                ////
 ////                                                                 ////
 ////                                                                 ////
